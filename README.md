@@ -14,7 +14,7 @@
 - Upto 6 jigsaw pieces
 - Press enter to make a new line within jigsaw, the jigsaw height is dynamic too
 
-## Dynamic Height
+***Dynamic Height***
 
 ```javascript
 <script src="https://rawgit.com/jackmoore/autosize/master/dist/autosize.min.js"></script>
@@ -32,6 +32,14 @@ autosize(document.getElementsByClassName("noscroll"));
 [![](https://media.giphy.com/media/mFr8DygQ4H3jtVFwuw/giphy.gif)]()
 
 - Any Idea Jigsaw piece can be viewed alongwith its extensions by clicking on any jigsaw piece to read its direct childs.
+
+
+***Changings and collaboration topics***
+- Upgrade to Laravel
+- Add search algorithm to ideas feed
+- Add tranisitions and animations
+- Program to link social accounts
+- Mobile user friendly (although its already responsive)
 
 ### Clone
 
