@@ -6,7 +6,7 @@
 
 ***Introducing Jigsaws***
 
-[![INSERT YOUR GRAPHIC HERE](https://giphy.com/gifs/hTrp1sd0iyLiKvVTq7)]()
+[![](https://media.giphy.com/media/hTrp1sd0iyLiKvVTq7/giphy.gif)]()
 
 - The most of the functionality of our website is based on the jigsaw pieces combining with each other to make ideas as well as branching out in someones idea to extend it.
 
