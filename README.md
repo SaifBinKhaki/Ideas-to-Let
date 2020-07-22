@@ -1,5 +1,3 @@
-<img src="to be use/bulb2.png?v=3&s=200" title="Ideastolet" alt="Ideas to let Logo">
-
 # Ideas to Let
 
 > A web application maintained by Billionaires group, providing the services of open sourcing any idea and getting common public to extend the features and possibilities of your idea. Moreover, problem solving techniques are also catered in the application.
@@ -12,16 +10,10 @@
 
 > Tips
 
-- HAVE WHITE SPACE
-- MAKE IT PRETTY
-- GIFS ARE REALLY COOL
+- Press tab to make a new jigsaw piece
+- Upto 6 jigsaw pieces
+- Press enter to make a new line within jigsaw, the jigsaw height is dynamic too
 
-> GIF Tools
-
-- Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
-- For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
-
-**Recordit**
 
 ![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
 
